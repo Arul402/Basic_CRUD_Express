@@ -1,0 +1,10 @@
+24022025	13:36:32	cae946dd-80df-4232-a50e-8e78ce73c042	Error	Not Allowed By CORS	https://mail.google.com
+24022025	13:36:32	91a8a6a6-b739-4df7-88fe-7eeceef980de	Error	Not Allowed By CORS	https://mail.google.com
+24022025	13:38:39	722add3a-0026-410f-9d61-fdd3aa495fa2	Error	Not Allowed By CORS	https://mail.google.com
+24022025	13:38:39	74b01143-8404-47cd-ab39-ee8f1e122580	Error	Not Allowed By CORS	https://mail.google.com
+24022025	13:39:28	83760baf-b0bc-4f43-804e-210bc51d7e83	Error	Not Allowed By CORS	https://www.google.co.in
+24022025	13:39:28	1080fd0c-d830-401f-ba7a-d13fa10ac5fe	Error	Not Allowed By CORS	https://www.google.co.in
+24022025	16:36:46	987a208c-e25f-42dc-850e-845564076460	TypeError	data.employee is not a function	undefined
+24022025	16:39:43	9936cfe0-d909-4746-bc7d-4778f298705c	ReferenceError	employee is not defined	undefined
+24022025	16:42:38	d664c6d6-d7f1-47c5-88d0-879ed6e34723	ReferenceError	employee is not defined	undefined
+24022025	17:06:02	cda94a15-2caa-4a25-b25d-4a939351b6b5	SyntaxError	Unexpected token } in JSON at position 30	undefined
